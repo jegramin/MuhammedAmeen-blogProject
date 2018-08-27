@@ -1,0 +1,38 @@
+*{
+    border: 0px;
+    
+}
+header{
+    background-color: #d3d3d3d2;
+    color: #646464;
+    padding: 0.1px 15px;
+}
+.newPost:hover{
+    background-color: white;
+    box-shadow: 1px 2px 5px 1px #888888;
+    color: #000;
+    /* background-color: #646464; */
+}
+.newPost{
+    background-color: white;
+}
+.boxShdow{
+    box-shadow: 1px 2px 5px 1px #888888;
+    word-wrap: break-word;
+}
+.edit{
+    height: 35px;
+    margin: 10px auto;
+}
+.author{
+    color:gray;
+    text-align: right;
+    font-style: italic;
+}
+#title{
+    padding: 20px 0 10px 20px;
+}
+
+aside{
+    display: inline;
+}

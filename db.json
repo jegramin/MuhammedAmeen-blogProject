@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "title": "title 1",
+      "body": "be",
+      "author": "me",
+      "id": 2
+    },
+    {
+      "title": "title 3",
+      "body": "dfgdg",
+      "author": "rteg",
+      "id": 3
+    },
+    {
+      "title": "title 5",
+      "body": "meeee",
+      "author": "muhammed",
+      "category": "sports",
+      "id": 4
+    },
+    {
+      "title": "title 1",
+      "body": "wefrwefw",
+      "author": "we",
+      "category": "sporsts",
+      "id": 5
+    },
+    {
+      "title": "asdasf",
+      "body": "sdfsdfsdf",
+      "author": "fsdsdfs",
+      "category": "arts",
+      "id": 6
+    },
+    {
+      "title": "gg",
+      "body": "gg",
+      "author": "gg",
+      "category": "sports",
+      "id": 7
+    },
+    {
+      "title": "title 4",
+      "body": "sgfsdfgsdf",
+      "author": "meme",
+      "category": "arts",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "comment": "",
+      "id": 1
+    },
+    {
+      "comment": "",
+      "id": 2
+    },
+    {
+      "comment": "",
+      "id": 3
+    },
+    {
+      "comment": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
